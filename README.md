@@ -1,7 +1,7 @@
 ## 🔗 Live Project
 
 🚀 **Live Demo:**  
-👉 https://your-username.github.io/deep-thought/
+👉 https://vbbanwari.github.io/Deep-thought-venture/
 
 This project is live and accessible online. It demonstrates the complete UI and functionality of the **Deep Thought** platform, focusing on structured thinking, clarity, and modern design principles. The application runs entirely in the browser and showcases real-world implementation of HTML, CSS, and JavaScript concepts.
 
